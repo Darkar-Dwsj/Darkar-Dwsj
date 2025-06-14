@@ -1,9 +1,8 @@
 # Hello World !  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /><samp><p> I'm <b>Dariel De Jesús</b>, a guy passionate about software development and cybersecurity <i>with a technical high school degree in the field of informatics.</i> Motivated to keep growing in the tech world, I am a logical problem-solver, dynamic, and always try to stay up-to-date.</p></samp>
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /><samp><p> I'm <b>Dariel De Jesús</b>, a guy passionate about a cybersecurity <i>with a technical high school degree in the field of informatics.</i> Motivated to keep growing in the tech world, I am a logical problem-solver, dynamic, and always try to stay up-to-date.</p></samp>
 
 #### Things I enjoy:
-- Creating Content 📸.
 - Developing Software 👩‍💻.
 - Video Games 🎮.
 - Learning New Things 📚.
